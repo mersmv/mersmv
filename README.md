@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/mersmv/mersmv/presentacion-image.jpg)
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/mersmv/mersmv/master/presentacion-image.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 🙋, Soy Mercedes</h1>
